@@ -1,0 +1,24 @@
+@charset "UTF-8";
+
+body {
+    background-color: rgb(232, 214, 248);
+}
+h1 {
+    background-color: blanchedalmond;
+    font-family: cursive;   
+}
+h2 {
+    background-color: white;
+    }
+p {
+    background-color: rgb(219, 166, 166);
+}
+ol {
+    background-color: rgb(137, 228, 159);
+}
+ul {
+    background-color: rgb(137, 228, 159);
+}
+dl {
+    background-color: rgb(137, 228, 159);
+}
